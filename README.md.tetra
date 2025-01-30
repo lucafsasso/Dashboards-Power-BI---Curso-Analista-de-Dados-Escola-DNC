@@ -24,12 +24,6 @@ Fornecer uma análise detalhada do desempenho da Tetra Store, identificando tend
 ✔️ Ticket médio dos clientes.  
 ✔️ Análise de sazonalidade e tendências de consumo.  
 
----
-
-## 🔧 **Como Abrir e Explorar o Dashboard?**  
-1. Faça o download do arquivo `.pbix` e abra no **Power BI Desktop**.  
-2. Certifique-se de ter os arquivos de origem no **Excel** conectados corretamente.  
-3. Explore os filtros interativos e gráficos dinâmicos para obter insights detalhados.  
 
 ---
 
