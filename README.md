@@ -1,20 +1,24 @@
-# 📊 Dashboards Power BI  - Curso Analista de Dados | Escola DNC  
+# 📊 Dashboards Power BI | Curso Analista de Dados
 
-Este repositório contém dashboards desenvolvidos no curso de **Analista de Dados da Escola DNC**. Aqui, publico projetos utilizando **Power BI**, explorando análise de dados e visualizações estratégicas.  
+Este repositório contém dashboards desenvolvidos no curso de **Analista de Dados da Escola DNC**, utilizando **Power BI, SQL e Metabase**.
+
+## 📂 Projetos Publicados  
+
+### 🏪 Dashboard Tetra Store  
+📊 **Análise de vendas e comportamento do consumidor na loja Tetra Store.**  
+![Dashboard Tetra Store](dashboard-tetra-store.png)  
+
+### 📈 Dashboard Desafio 01  
+📊 **Exploração de dados e relatórios interativos no Power BI.**  
+![Dashboard Desafio 01](dashboard-desafio01.png)  
 
 ---
 
-## 📂 **Projetos Publicados**  
-
-### 📊 Dashboard Power BI  
-**Exploração de dados e relatórios interativos no Power BI.**  
-![Dashboard Power BI](dashboard-desafio01.png)  
-
----
-
-## 🔧 **Tecnologias Utilizadas**  
-- **📊 Data Visualization:** Power BI 
-- **🗄️ Banco de Dados:** Excel  
+## 🔧 Tecnologias Utilizadas  
+✔️ Power BI  
+✔️ SQL  
+✔️ Metabase  
+✔️ Excel  
 
 📩 **Contato:**  
 📧 Email: [lucafsasso@hotmail.com](mailto:lucafsasso@hotmail.com)  
