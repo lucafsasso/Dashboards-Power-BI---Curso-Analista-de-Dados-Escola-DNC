@@ -1,0 +1,39 @@
+# 📊 Dashboard Tetra Store | Power BI  
+
+Este repositório contém o **Dashboard Tetra Store**, desenvolvido no **Power BI** a partir de dados extraídos do **Excel**. O objetivo do projeto é analisar as principais métricas de vendas, desempenho financeiro e comportamento dos clientes da loja, proporcionando insights estratégicos para a tomada de decisão.  
+
+---
+
+## 📂 **Visão Geral do Dashboard**  
+
+### 🔹 **Objetivo**  
+Fornecer uma análise detalhada do desempenho da Tetra Store, identificando tendências, padrões de compra e oportunidades de crescimento.  
+
+### 📊 **Tecnologias Utilizadas**  
+- **Power BI** → Construção do dashboard e visualização interativa.  
+- **Excel** → Fonte de dados utilizada para extração e estruturação das informações.  
+
+### 🖥️ **Dashboard**  
+![Dashboard Tetra Store](dashboard-tetra-store.png)  
+
+---
+
+## 📈 **Principais Métricas e Análises**  
+✔️ Receita total e variação mensal.  
+✔️ Volume de vendas por categoria de produto.  
+✔️ Ticket médio dos clientes.  
+✔️ Análise de sazonalidade e tendências de consumo.  
+
+---
+
+## 🔧 **Como Abrir e Explorar o Dashboard?**  
+1. Faça o download do arquivo `.pbix` e abra no **Power BI Desktop**.  
+2. Certifique-se de ter os arquivos de origem no **Excel** conectados corretamente.  
+3. Explore os filtros interativos e gráficos dinâmicos para obter insights detalhados.  
+
+---
+
+## 📩 **Contato**  
+📧 Email: [lucafsasso@hotmail.com](mailto:lucafsasso@hotmail.com)  
+📱 WhatsApp: (11) 99560-7670  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/luca-favilli-sasso/)  
