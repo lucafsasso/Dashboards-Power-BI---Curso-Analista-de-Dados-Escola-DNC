@@ -1,4 +1,4 @@
-# 📊 Dashboards Power BI | Curso Analista de Dados
+# 📊 Dashboards Power BI 
 
 Este repositório contém dashboards desenvolvidos no curso de **Analista de Dados da Escola DNC**, utilizando **Power BI, SQL e Metabase**.
 
